@@ -1,4 +1,4 @@
-# Project Name: Spatial-Temporal Prediction Models for COVID-19 
+# Project Name: Sewage Microbiome-mining
 ---
 **Team Leaders**: Anujit Sarkar, Agaz	Wani
 
